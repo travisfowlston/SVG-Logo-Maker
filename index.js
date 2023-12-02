@@ -1,6 +1,7 @@
 /* All necessary packages for this application */
 const inquirer = require("inquirer");
 const fs = require("fs");
+const { Triangle, Circle, Square } = require("./shapes");
 
 const questions = [
   {
