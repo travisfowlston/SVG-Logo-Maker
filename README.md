@@ -6,19 +6,18 @@ The Module 10 Challenge objective was to build a Node.js command-line applicatio
 
 ## Walkthrough Video
 
-[Walkthrough Link]()
+[Walkthrough Link](https://drive.google.com/file/d/1H4gOdIctAbwVP-LK8pEvqKsmXc_PEGRw/view?usp=sharing)
 
 ## Deployment Screenshot
 
-![deployment-screenshot]()
+![deployment-screenshot](./examples/deployment-screenshot.JPG)
 
 ## Comments
 
--
--
--
--
--
+- Prompts user through a series of questions using Inquirer.
+- Creates a logo.svg file that contains a 300x200 pixel image that matches the criteria that user has entered.
+- Allows user to choose between a circle, square, or triangle for the background shape.
+- Allows user to choose colors for both the text and the shape using a color keyword or hexadecimal number.
 
 ## Credits
 
